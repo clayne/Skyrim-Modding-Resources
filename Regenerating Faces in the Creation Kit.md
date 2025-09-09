@@ -13,7 +13,7 @@ The purpose of regenerating all the faces for NPC's in the game to provide a lev
 ### Required Mods
 
 To effectively generate facegen, you will need the following items:
-1. The Creation Kit from Bethesda Net 
+1. [The Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) 
 2. [Creation Kit Platform Extended for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/71371)
 4. The main file from [Tweaked Creation Kit Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817)
 5. [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases)
